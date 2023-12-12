@@ -10,9 +10,10 @@ placeorder.addEventListener('click', function click(){
     let productprice2 = document.getElementById('productprice2');
     let total = document.getElementById('total');
 
-    
+
 
     window.location.href = "demo_site/checkout.html";
+
 
 
 
@@ -20,11 +21,7 @@ placeorder.addEventListener('click', function click(){
 });
 
 
-
-
-
-
-
+let userdetials = document.getElementById('userDetials'); 
 
 
 
